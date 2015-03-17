@@ -1,0 +1,26 @@
+/*
+Theme Name: Quark Child
+Theme URI: http://quarktheme.com/quark-child/
+Description: Quark Child Theme;
+Author: John Gregory
+Author URI: http://mediagg.com/
+Template: Quark
+Description: Quark is your basic building block for creating beautiful, responsive custom themes. It's not a convoluted or confusing framework that's hard to learn or even harder to modify. It's a simple and elegant starter theme built on HTML5 & CSS3. Its base is a responsive, 12 column grid. It incorporates custom theme options that are easy to modify, a set of common templates, support for WordPress Post Formats and the gorgeous, retina friendly Font Awesome icon font. Quark is WooCommerce compatible, Multilingual Ready (WPML) and translated into Spanish, German and French.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: black, gray, dark, light, one-column, two-columns, right-sidebar, fluid-layout, responsive-layout, custom-background, custom-header, custom-menu, editor-style, featured-image-header, featured-images, full-width-template, microformats, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+Text Domain: quark-child
+*/
+
+@import url("../quark/style.css");
+
+/* =Theme customization starts here
+----------------------------------------------------- */
+#bannercontainer {
+background: #222222 url('http://localhost:8888/mpwerks.com/wp-content/themes/Quark-child/images/dark-noise.jpg') repeat scroll top left;
+}
+
+#footercontainer {
+background-color: #47506b;
+}
